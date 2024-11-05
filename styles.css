@@ -1,0 +1,19 @@
+body {
+  /* background-position: center; */
+  /* background-size: 1920px 1080; */
+  /* background-repeat: no-repeat; */
+  font-size: medium;
+}
+
+a {
+  font-size: medium
+}
+
+p {
+  font-size: medium
+}
+
+
+.multiline {
+  white-space: pre-wrap;
+}
