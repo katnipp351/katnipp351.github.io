@@ -1,19 +1,26 @@
-body {
-  /* background-position: center; */
-  /* background-size: 1920px 1080; */
-  /* background-repeat: no-repeat; */
-  font-size: medium;
+#container {
+  background-color:#CCCCCC;
+  width: 80%;
+
 }
 
-a {
-  font-size: medium
+#header {
+  background-color:darkslategray; 
+  background-image: URL(images/icecream-header.jpg);
+
 }
 
-p {
-  font-size: medium
+#topnavbar {
+  background-color:cornsilk;
 }
 
-
-.multiline {
-  white-space: pre-wrap;
+#maincontent {
+  background-color:aliceblue;
+  font-family: 'Courier New', Courier, monospace;
 }
+
+#bottomnavbar {
+  background-color:cornsilk;
+
+}
+
